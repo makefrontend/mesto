@@ -1,0 +1,17 @@
+.popup__input-items {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 0 auto;
+    padding: 0px;
+    border: none;
+    max-width: 358px;
+}
+
+@media screen and (max-width: 505px) {
+    .popup__input-items {
+        margin-left: calc(36px * 0.6);
+        margin-right: calc(36px * 0.6);
+        max-width: 232.7px;
+    }
+}
