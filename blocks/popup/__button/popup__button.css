@@ -21,7 +21,6 @@
     .popup__button {
         margin-left: calc(36px * 0.6);
         margin-right: calc(36px * 0.6);
-        margin-bottom: calc(36px * 0.6);
         max-width: calc(358px * 0.6);
     }
 }
