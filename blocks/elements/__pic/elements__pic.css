@@ -1,4 +1,4 @@
-.elements__pic{
+.elements__pic {
     width: 20.76px;
     height: 18.13px;
     background: url(../../../images/heart.svg);
@@ -8,10 +8,9 @@
     overflow: visible;
     border: none;
     padding: 0;
-    
 }
 
-.elements__pic:hover{
+.elements__pic:hover {
     cursor: pointer;
-    opacity: 0.6;
+    opacity: 0.5;
 }
